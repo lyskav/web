@@ -1,0 +1,185 @@
+.desktop-2 .vector {
+  margin-right: 35px;
+  width: 96px;
+  height: 115px;
+}
+.desktop-2 .sigma-com {
+  margin: 2px 0 27px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 71px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-6 {
+  margin: 0 29px 33px 29px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 .container {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 62px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-3 {
+  border-radius: 51px;
+  background: #313185;
+  position: relative;
+  margin-bottom: 76px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10px 0 18px 56.5px;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.desktop-2 .rectangle-19 {
+  background: #161626;
+  position: absolute;
+  left: 87px;
+  top: 47px;
+  width: 560px;
+  height: 49px;
+}
+.desktop-2 .rectangle-20 {
+  background: #161626;
+  position: absolute;
+  left: 87px;
+  bottom: 44px;
+  width: 560px;
+  height: 50px;
+}
+.desktop-2 .rectangle-23 {
+  background: #161626;
+  position: absolute;
+  left: 87px;
+  top: 50%;
+  translate: 0 -50%;
+  width: 560px;
+  height: 50px;
+}
+.desktop-2 .container-1 {
+  position: relative;
+  margin: 0 28.2px 19px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 41px;
+  color: #B8B8B8;
+}
+.desktop-2 .email {
+  position: relative;
+  margin: 0 46.3px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 41px;
+  color: #B8B8B8;
+}
+.desktop-2 .container-2 {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 41px;
+  color: #B8B8B8;
+}
+.desktop-2 .container {
+  border-radius: 62px;
+  background: #313185;
+  position: relative;
+  margin: 0 0 126px 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 47px 0 43px 0;
+  width: 741px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-3 {
+  margin: 14px 19px 13px 0;
+  display: inline-block;
+  width: 714px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 31px;
+  color: #B8B8B8;
+}
+.desktop-2 .vector-2 {
+  width: 39px;
+  height: 38px;
+}
+.desktop-2 .container-2 {
+  border: 2px solid #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 12px 12.5px 15px 13.5px;
+  width: 65px;
+  height: 65px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-4 {
+  margin-left: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 798px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-4 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 42px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-5 {
+  border-radius: 51px;
+  background: #313185;
+  position: relative;
+  margin-bottom: 95px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 26px 5.7px 26px 0;
+  width: 612px;
+  box-sizing: border-box;
+}
+.desktop-2 .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 44px;
+  color: #FFFFFF;
+}
+.desktop-2 .container-1 {
+  border-radius: 51px;
+  background: #313185;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 23px 38px 27px 38px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.desktop-2 {
+  background: #161626;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 51px 0 126px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
